@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="cat_data" version="1.3.0" audacityversion="2.2.2" sel0="8.4952179487" sel1="8.4952179487" vpos="0" h="0.0000000000" zoom="86.5192634770" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + Millisekunden" frequencyformat="Hz" bandwidthformat="Oktaven">
+	<tags/>
+	<wavetrack name="cat" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="439280">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808122.au" len="262144" min="-0.08667" max="0.09967" rms="0.015216"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f36.au" len="177136" min="-0.095673" max="0.100616" rms="0.018438"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cat" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="439280">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808168.au" len="262144" min="-0.08667" max="0.09967" rms="0.015216"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080873d.au" len="177136" min="-0.095673" max="0.100616" rms="0.018438"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="MONO INC. - Children Of The Dark (feat. Joachim Witt, Tilo Wolff und Chris Harms)" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="575872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800876.au" len="216923" min="-1.157023" max="1.116755" rms="0.298487"/>
+				</waveblock>
+				<waveblock start="216923">
+					<simpleblockfile filename="e08083e3.au" len="176445" min="-1.125932" max="1.092096" rms="0.288267"/>
+				</waveblock>
+				<waveblock start="393368">
+					<simpleblockfile filename="e080048e.au" len="182504" min="-0.89561" max="0.758619" rms="0.172277"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="MONO INC. - Children Of The Dark (feat. Joachim Witt, Tilo Wolff und Chris Harms)" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="575872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800224.au" len="216923" min="-1.207489" max="1.267089" rms="0.292048"/>
+				</waveblock>
+				<waveblock start="216923">
+					<simpleblockfile filename="e0808c3d.au" len="176445" min="-0.990186" max="1.068631" rms="0.272642"/>
+				</waveblock>
+				<waveblock start="393368">
+					<simpleblockfile filename="e08004a3.au" len="182504" min="-0.912452" max="0.843784" rms="0.168707"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

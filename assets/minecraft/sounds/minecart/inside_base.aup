@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="inside_base_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="77.7156052935" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + Millisekunden" frequencyformat="Hz" bandwidthformat="Oktaven">
+	<tags>
+		<tag name="Software" value="Lavf58.29.100"/>
+		<tag name="ALBUM" value="Nature&apos;s Lullaby: 100 Natural Sounds for Relaxation, Mediation and Sleep"/>
+		<tag name="TITLE" value="Rain from the Inside of a Car"/>
+		<tag name="ARTIST" value="Pro Sound Effects Library"/>
+	</tags>
+	<wavetrack name="Sound Inside The Car Sound Effects" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="423699">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808dcb.au" len="141747" min="-0.3508" max="0.394878" rms="0.114698"/>
+				</waveblock>
+				<waveblock start="141747">
+					<simpleblockfile filename="e080884d.au" len="141748" min="-0.476219" max="0.381338" rms="0.116912"/>
+				</waveblock>
+				<waveblock start="283495">
+					<simpleblockfile filename="e0808469.au" len="140204" min="-0.399808" max="0.375439" rms="0.103895"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Sound Inside The Car Sound Effects" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="423699">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c54.au" len="141747" min="-0.455636" max="0.407788" rms="0.128244"/>
+				</waveblock>
+				<waveblock start="141747">
+					<simpleblockfile filename="e0808c79.au" len="141748" min="-0.476798" max="0.517191" rms="0.131575"/>
+				</waveblock>
+				<waveblock start="283495">
+					<simpleblockfile filename="e0808457.au" len="140204" min="-0.361196" max="0.483787" rms="0.097229"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
