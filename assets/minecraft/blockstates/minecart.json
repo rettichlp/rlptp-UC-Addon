@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "minecart" },
+            { "model": "minecart/minecart1" },
+            { "model": "minecart/minecart2" },
+            { "model": "minecart/minecart3" },
+            { "model": "minecart/minecart4" },
+            { "model": "minecart/minecart5" }
+	]
+    }
+}
