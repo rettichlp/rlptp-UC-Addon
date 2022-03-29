@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"glock18_textures": "items/glock18_textures"
+		"glock18_textures": "uc/glock18_textures"
 	},
 	"elements": [ 	 
 		{

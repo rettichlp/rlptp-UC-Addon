@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"flamethrower__textures": "items/flamethrower__textures"
+		"flamethrower__textures": "uc/flamethrower__textures"
 	},
 	"elements": [ 	 
 		{

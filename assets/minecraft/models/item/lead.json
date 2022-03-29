@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"handcuffs_textures": "items/handcuffs_textures"
+		"handcuffs_textures": "uc/handcuffs_textures"
 	},
 	"elements": [ 	 
 		{

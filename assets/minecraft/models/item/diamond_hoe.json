@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Cheescake212 with Cubik Studio for UnicaCity.de - https://cubik.studio",
 	"textures": {
-		"voxels_atlas": "guns/laser-tag-phaser"
+		"voxels_atlas": "uc/laser-tag-phaser"
 	},
 	"elements": [ 	 
 		{

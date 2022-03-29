@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"mp5_textures": "items/mp5_textures"
+		"mp5_textures": "uc/mp5_textures"
 	},
 	"elements": [ 	 
 		{

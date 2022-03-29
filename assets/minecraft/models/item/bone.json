@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"baseball_bat_textures": "items/baseball_bat_textures"
+		"baseball_bat_textures": "uc/baseball_bat_textures"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"rpg7_textures": "items/rpg7_textures"
+		"rpg7_textures": "uc/rpg7_textures"
 	},
 	"elements": [ 	 
 		{
