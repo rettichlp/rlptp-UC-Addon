@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"ballistic_shield_textures": "items/ballistic_shield_textures"
+		"ballistic_shield_textures": "uc/ballistic_shield_textures"
 	},
 	"elements": [ 	 
 		{

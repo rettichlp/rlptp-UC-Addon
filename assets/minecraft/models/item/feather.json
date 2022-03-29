@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"bajonet_knife_textures": "items/bajonet_knife_textures"
+		"bajonet_knife_textures": "uc/bajonet_knife_textures"
 	},
 	"elements": [ 	 
 		{

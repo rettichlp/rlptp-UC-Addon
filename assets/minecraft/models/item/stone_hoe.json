@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by MBr99 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"m40_textures": "items/m40_textures"
+		"m40_textures": "uc/m40_textures"
 	},
 	"elements": [ 	 
 		{

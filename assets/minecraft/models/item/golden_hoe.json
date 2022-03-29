@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by  gi2000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"hunting_rifle_textures": "items/hunting_rifle_textures"
+		"hunting_rifle_textures": "uc/hunting_rifle_textures"
 	},
 	"elements": [ 	 
 		{
