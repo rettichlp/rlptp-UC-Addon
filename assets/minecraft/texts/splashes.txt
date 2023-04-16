@@ -1,6 +1,0 @@
-﻿server.unicacity.de
-unicacity.de
-RLPTP 1.12 UnicaCity Addon
-Sir Rettington
-Rettich 'Ret' Rettington
-RettichLP Texturepack 1.12

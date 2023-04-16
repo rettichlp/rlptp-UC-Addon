@@ -1,8 +1,0 @@
-{
-  "parent": "block/leaves_cross",
-  "textures": {
-    "all": "blocks/birch_leaves",
-    "bushy_top": "blocks/birch_leaves_bushy_top",
-    "bushy_bottom": "blocks/birch_leaves_bushy_bottom"
-  }
-}
